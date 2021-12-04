@@ -1,0 +1,12 @@
+C:\Users\45422\Desktop\Shakespeare\bin\Debug\Shakespeare.exe.config
+C:\Users\45422\Desktop\Shakespeare\bin\Debug\Shakespeare.exe
+C:\Users\45422\Desktop\Shakespeare\bin\Debug\Shakespeare.pdb
+C:\Users\45422\Desktop\Shakespeare\obj\Debug\Shakespeare.csprojAssemblyReference.cache
+C:\Users\45422\Desktop\Shakespeare\obj\Debug\Shakespeare.exe
+C:\Users\45422\Desktop\Shakespeare\obj\Debug\Shakespeare.pdb
+C:\Users\45422\Desktop\old\Shakespeare\bin\Debug\Shakespeare.exe.config
+C:\Users\45422\Desktop\old\Shakespeare\bin\Debug\Shakespeare.exe
+C:\Users\45422\Desktop\old\Shakespeare\bin\Debug\Shakespeare.pdb
+C:\Users\45422\Desktop\old\Shakespeare\obj\Debug\Shakespeare.csprojAssemblyReference.cache
+C:\Users\45422\Desktop\old\Shakespeare\obj\Debug\Shakespeare.exe
+C:\Users\45422\Desktop\old\Shakespeare\obj\Debug\Shakespeare.pdb
